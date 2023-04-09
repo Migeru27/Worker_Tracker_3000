@@ -8,23 +8,17 @@ A way to make and create different databases with a click of a button!
 
 ## Motivation 💡
 
-I wanted to give others an easy ways to view databases and give them a much easier to understand and visualize 
+I wanted to give others an easy ways to view databases and give them a much easier to understand and visualize databases
 
 ## Tools 
 
-- HTML
-- CSS
-- JavaScript
+- Node JS
+- MySQL
 
 ## Screenshots 
 
 ![Main Page](./assets/images/Screenshot%202023-03-10%20at%2013-15-48%20Code%20Quiz.png)
 
-![Question Page](./assets/images/Screenshot%202023-03-10%20132006.png)
-
-![High Score Page](./assets/images/Screenshot%202023-03-10%20at%2013-17-04%20Code%20Quiz.png)
-
-![High Score in Main Page](./assets/images/Screenshot%202023-03-10%20at%2013-17-53%20Code%20Quiz.png)
 
 ## Links 
 

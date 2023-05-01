@@ -1,5 +1,5 @@
 # Worker Tracker 3000
-A quiz meant to excerise your brain
+A tracker to mantain order within the work environment
 
 ## About
 
